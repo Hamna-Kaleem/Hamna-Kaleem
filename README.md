@@ -47,7 +47,7 @@ I wrote **T.A.P: The Amazing Pixels**, a fun and educational story that turns th
 
 👉 [Read TapTown on Kindle](https://www.amazon.com/dp/B0FSQ3FWWR) *(insert Amazon link here)*  
 
-![TapTown Book Cover](T.A.P-The-Amazing-Pixels/images/cover.png)
+![TapTown Book Cover](images/cover.png)
 
 
 
