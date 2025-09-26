@@ -35,4 +35,19 @@ This certification validated my ability to **design and deploy ML solutions usin
 
 🎓 I earned this certification to validate my skills in designing, training, and deploying ML models on AWS.  
 
+---
+## 📚 Author Journey
+
+Alongside my work in Machine Learning, I’m also a children’s book author!  
+I wrote **T.A.P: The Amazing Pixels**, a fun and educational story that turns the keyboard into a magical town where every key has a personality.  
+
+- 🎨 Designed for kids aged 5–10  
+- ✨ Blends storytelling with learning about letters, numbers, and computers  
+- 📖 Available now on Kindle  
+
+👉 [Read TapTown on Kindle](https://www.amazon.com/dp/B0FSQ3FWWR) *(insert Amazon link here)*  
+
+![TapTown Book Cover](T.A.P-The-Amazing-Pixels/images/cover.png)
+
+
 
